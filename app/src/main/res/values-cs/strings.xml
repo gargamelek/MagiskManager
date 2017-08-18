@@ -14,22 +14,27 @@
 
     <!--Status Fragment-->
     <string name="magisk_version">Nainstalován Magisk v%1$s</string>
+    <string name="magisk_version_core_only">Nainstalován Magisk v%1$s (Core Only Mode)</string>
     <string name="magisk_version_error">Magisk není nainstalován</string>
 
     <string name="checking_for_updates">Kontrola aktualizací…</string>
     <string name="magisk_update_available">Magisk v%1$s je dostupný!</string>
-    <string name="cannot_check_updates">Nelze zkontrolovat aktualizace. Jste připojeni k Internetu?</string>
-    <string name="up_to_date">Poslední verze z %1$s nainstalovaných</string>
+    <string name="cannot_check_updates">Nelze zkontrolovat aktualizace. Jste připojeni k internetu?</string>
+    <string name="up_to_date">Poslední verze %1$s je nainstalována</string>
     <string name="root_error">Zařízení s rootem ale chybí root povolení, máte jej zpřístupněno?</string>
     <string name="not_rooted">Nemáte root</string>
     <string name="proper_root">Správně provedený root</string>
     <string name="safetyNet_check_text">Kliknutím zahájíte SafetyNet kontrolu</string>
     <string name="checking_safetyNet_status">Kontrola stavu SafetyNet…</string>
+    <string name="safetyNet_check_success">Kontrola SafetyNet dopadla úspěšně</string>
     <string name="safetyNet_connection_failed">Nelze se spojit s Google API</string>
     <string name="safetyNet_connection_suspended">Spojení s Google API bylo přerušeno</string>
     <string name="safetyNet_no_response">Nelze zkontrolovat SafetyNet. Jste připojeni k Internetu?</string>
-    <string name="safetyNet_fail">SafetyNet dopadl neúspěšně: CTS profile mismatch</string>
+    <string name="safetyNet_fail">Kontrola SafetyNet dopadla neúspěšně: CTS profile mismatch</string>
     <string name="safetyNet_pass">SafetyNet Schváleno</string>
+    <string name="safetyNet_network_loss">Síťové připojení je nedostupné</string>
+    <string name="safetyNet_service_disconnected">Služba byla zrušena</string>
+    <string name="safetyNet_res_invalid">Žádná odezva</string>
     <string name="root_info_warning">Funkčnost omezena</string>
 
     <!--Install Fragment-->
